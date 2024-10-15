@@ -1,0 +1,13 @@
+body{
+
+    background: white
+}
+div{
+    background: whitesmoke;
+}
+div a{
+    color: black;
+    padding: 10px;
+    font-size: 24px;
+}
+
